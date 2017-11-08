@@ -5,7 +5,7 @@ Este código é uma adaptação de ["Implementing a CNN for Text Classification 
 
 ## Ferramentas e Instruções
 
-Instruções gerais e ferramentas podem ser encontradas [aqui](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/) 
+Instruções gerais e ferramentas podem ser encontradas [aqui](https://github.com/dennybritz/cnn-text-classification-tf/blob/master/README.md) 
 
 ## Algoritmo Genético
 
