@@ -9,7 +9,7 @@ Instruções gerais e ferramentas podem ser encontradas [aqui](https://github.co
 
 ## Algoritmo Genético
 
-Com a utilização da biblioteca PyEvolve, criou-se um algoritmo genético capaz de variar os parâmetros da Rede Neural Convolucional adaptada para o Português, gerando-se um "cromossomo ótimo" de parâmetros, onde cada alelo é um dos parâmetros de especificados por [Britz](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/).
+Com a utilização da biblioteca PyEvolve, criou-se um algoritmo genético capaz de variar os parâmetros da Rede Neural Convolucional adaptada para o Português, gerando-se um "cromossomo ótimo" de parâmetros, onde cada alelo é um dos parâmetros de especificados por [Britz (2015)](https://github.com/dennybritz).
 
 
 ## Base de dados
