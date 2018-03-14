@@ -4,9 +4,9 @@ Bases de dados utilizadas para desenvolvimento do Trabalho de Conclusão de Curs
 
 
 # Sobre o trabalho:
-Título: Detecção de Ironia e Sarcasmo em Língua Portuguesa: uma abordagem utilizando Deep Learning \n
-Publicação: Fev/2018 \n
-DOI: 10.13140/RG.2.2.18896.81924 \n
-TCC para obtenção do grau de Bacharel em Ciência da Computação \n
-Orientadora: Dra. Andreia Gentil Bonfante \n
-Autor: Fabio Ricardo Araujo da Silva \n
+*Título: Detecção de Ironia e Sarcasmo em Língua Portuguesa: uma abordagem utilizando Deep Learning <br />
+Publicação: Fev/2018 <br />
+DOI: 10.13140/RG.2.2.18896.81924 <br />
+TCC para obtenção do grau de Bacharel em Ciência da Computação <br />
+Orientadora: Dra. Andreia Gentil Bonfante <br />
+Autor: Fabio Ricardo Araujo da Silva <br />
