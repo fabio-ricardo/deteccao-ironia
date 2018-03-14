@@ -1,23 +1,12 @@
-# Detecção de Ironia e Sarcasmo em Textos em Português
+# Detecção de Ironia e Sarcasmo em Língua Portuguesa: uma abordagem utilizando *Deep Learning*
 
-Este código é uma adaptação de ["Implementing a CNN for Text Classification in Tensorflow"](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/) e [Convolutional Neural Networks for Sentence Classification](http://arxiv.org/abs/1408.5882) para o desenvolvimento de um trabalho de conclusão de curso voltado à análise e detecção de ironia e sarcasmo em textos em Português.
-
-
-## Ferramentas e Instruções
-
-Instruções gerais e ferramentas podem ser encontradas [aqui](https://github.com/dennybritz/cnn-text-classification-tf/blob/master/README.md) 
-
-## Algoritmo Genético
-
-Com a utilização da biblioteca PyEvolve, criou-se um algoritmo genético capaz de variar os parâmetros da Rede Neural Convolucional adaptada para o Português, gerando-se um "cromossomo ótimo" de parâmetros, onde cada alelo é um dos parâmetros de especificados por [Britz (2015)](https://github.com/dennybritz).
+Bases de dados utilizadas para desenvolvimento do Trabalho de Conclusão de Curso disponível [aqui](https://www.researchgate.net/publication/323369673_Deteccao_de_Ironia_e_Sarcasmo_em_Lingua_Portuguesa_uma_abordagem_utilizando_Deep_Learning)
 
 
-## Base de dados
-*Disponível em breve*
-
-## Referências
-
-- [Convolutional Neural Networks for Sentence Classification](http://arxiv.org/abs/1408.5882)
-- [A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification](http://arxiv.org/abs/1510.03820)
-- ["Implementing a CNN for Text Classification in Tensorflow"](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
-
+# Sobre o trabalho:
+Título: Detecção de Ironia e Sarcasmo em Língua Portuguesa: uma abordagem utilizando Deep Learning
+Publicação: Fev/2018
+DOI: 10.13140/RG.2.2.18896.81924
+TCC para obtenção do grau de Bacharel em Ciência da Computação
+Orientadora: Dra. Andreia Gentil Bonfante
+Autor: Fabio Ricardo Araujo da Silva
