@@ -1,6 +1,6 @@
 # Detecção de Ironia e Sarcasmo em Língua Portuguesa: uma abordagem utilizando *Deep Learning*
 
-Bases de dados utilizadas para desenvolvimento do Trabalho de Conclusão de Curso disponível [aqui](https://www.researchgate.net/publication/323369673_Deteccao_de_Ironia_e_Sarcasmo_em_Lingua_Portuguesa_uma_abordagem_utilizando_Deep_Learning)
+Bases de dados utilizadas para desenvolvimento do Trabalho de Conclusão de Curso. Referências e outras informações disponíveis [aqui](https://www.researchgate.net/publication/323369673_Deteccao_de_Ironia_e_Sarcasmo_em_Lingua_Portuguesa_uma_abordagem_utilizando_Deep_Learning).
 
 
 # Sobre o trabalho:
