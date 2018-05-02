@@ -1,12 +1,12 @@
-# Detecção de Ironia e Sarcasmo em Língua Portuguesa: uma abordagem utilizando *Deep Learning*
+# Irony and Sarcasm Detection in Brazilian Portuguese: A Deep Learning Approach
 
-Bases de dados utilizadas para desenvolvimento do Trabalho de Conclusão de Curso. Referências e outras informações disponíveis [aqui](https://www.researchgate.net/publication/323369673_Deteccao_de_Ironia_e_Sarcasmo_em_Lingua_Portuguesa_uma_abordagem_utilizando_Deep_Learning).
+Databases used in both Bachelor thesis *"Detecção de Ironia e Sarcasmo em Língua Portuguesa: uma abordagem utilizando Deep Learning"* and submitted paper *"Irony and Sarcasm Detection in Brazilian Portuguese: A Deep Learning Approach"*. References and additional information available [here](https://www.researchgate.net/publication/323369673_Deteccao_de_Ironia_e_Sarcasmo_em_Lingua_Portuguesa_uma_abordagem_utilizando_Deep_Learning).
 
 
-# Sobre o trabalho:
-Título: Detecção de Ironia e Sarcasmo em Língua Portuguesa: uma abordagem utilizando Deep Learning <br />
-Publicação: Fev/2018 <br />
+# Bachelor thesis (in Portuguese):
+Title: Detecção de Ironia e Sarcasmo em Língua Portuguesa: uma abordagem utilizando Deep Learning <br />
+Publication: Feb/2018 <br />
 DOI: 10.13140/RG.2.2.18896.81924 <br />
-TCC para obtenção do grau de Bacharel em Ciência da Computação <br />
-Orientadora: Dra. Andreia Gentil Bonfante <br />
-Autor: Fabio Ricardo Araujo da Silva <br />
+Advisor: Dra. Andreia Gentil Bonfante <br />
+Author: Fabio Ricardo Araujo da Silva <br />
+
