@@ -1,6 +1,6 @@
-# Irony and Sarcasm Detection in Brazilian Portuguese: A Deep Learning Approach
+# Irony and Sarcasm Detection in Brazilian Portuguese Tweets: A Deep Learning Approach
 
-Databases used in both Bachelor thesis *"Detecção de Ironia e Sarcasmo em Língua Portuguesa: uma abordagem utilizando Deep Learning"* and submitted paper *"Irony and Sarcasm Detection in Brazilian Portuguese: A Deep Learning Approach"*.
+Databases used in both Bachelor thesis *"Detecção de Ironia e Sarcasmo em Língua Portuguesa: uma abordagem utilizando Deep Learning"* and submitted paper *"Irony and Sarcasm Detection in Brazilian Portuguese Tweets: A Deep Learning Approach"*.
 
 
 # Submitted paper:
